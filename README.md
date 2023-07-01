@@ -1,5 +1,5 @@
 # PyCitySchools
-## Analysis school district data with Pandas
+## Analysis of school district data with Pandas
 
 Examination of the data concerning the schools in the district has yielded some interesting results. Some of our key findings relate to the characteristics of the top 5 and bottom 5 schools in the district, the variation of passing scores for maths in particular across schools, and the impact of size and spending effects.
 
